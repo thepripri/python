@@ -4,12 +4,7 @@
 <ol>
   <li><a href="https://github.com/dunieskiotano/python/blob/master/Operators/operators.py" target="_blank">Operators</a></li>
   <li><a href="https://github.com/dunieskiotano/python/blob/master/Strings/strings.py" target="_blank">Strings</a></li>
-  <li><a href="#" target="_blank">Conditionals</a></li>
-    <ul>
-    <li><a href="#">If Statement</a></li>
-    <li><a href="#">If-Else Statement</a></li>
-    <li><a href="#">If-Elif-Else Statement</a></li>   
-    </ul>
+  <li><a href="https://github.com/dunieskiotano/python/blob/master/Exceptions/exceptions.py" target="_blank">Exceptions</a></li>
   <li><a href="#" target="_blank">Collections</a></li>
     <ul>
     <li><a href="#">Arrays</a></li>
