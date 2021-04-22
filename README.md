@@ -4,10 +4,6 @@
 <ol>
   <li><a href="https://github.com/dunieskiotano/python/blob/master/Operators/operators.py" target="_blank">Operators</a></li>
   <li><a href="https://github.com/dunieskiotano/python/blob/master/Strings/strings.py" target="_blank">Strings</a></li>
-  <ul>
-    <li><a href="">Functions 1</a></li>
-    <li><a href="">Functions 1 Improved</a></li>
-  </ul>
   <li><a href="" target="_blank">Conditionals</a></li>
     <ul>
     <li><a href="">If Statement</a></li>
