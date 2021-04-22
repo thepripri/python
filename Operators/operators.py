@@ -33,3 +33,6 @@ print(Fore.MAGENTA, 'THINKING NOW...')
 sleep(4)
 print(f'approximately {ceil(gallons)} gallons')
 
+
+# # Check this page out for more on operators
+# https://docs.python.org/3.9/library/operator.html
