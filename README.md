@@ -2,8 +2,8 @@
 
 <h2>Topics covered in class:</h2>
 <ol>
-  <li><a href="" target="_blank">Data Types</a></li>
-  <li><a href="" target="_blank">Functions</a></li>
+  <li><a href="https://github.com/dunieskiotano/python/blob/master/Operators/operators.py" target="_blank">Operators</a></li>
+  <li><a href="https://github.com/dunieskiotano/python/blob/master/Strings/strings.py" target="_blank">Strings</a></li>
   <ul>
     <li><a href="">Functions 1</a></li>
     <li><a href="">Functions 1 Improved</a></li>
