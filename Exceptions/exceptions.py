@@ -1,5 +1,6 @@
 import os
 from os import system
+from colorama import Fore, Style
 
 system('clear')
 
@@ -13,6 +14,8 @@ try:
    print('Division = {}'.format(division))
 except ZeroDivisionError as err:
     print(err)
+# this executes regarless of whether an exception ocurrs or not
+finally: print(Fore.RED, 'I am in the finally block', Style.RESET_ALL)
 #except ZeroDivisionError: print(f'Division {num2} is not allowed')
 
 print('I am here now after exception is caught')
