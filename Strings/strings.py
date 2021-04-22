@@ -75,3 +75,7 @@ print(type(str(float(int(float('6.5')))))) # returns <class 'str'>
 print(float(int(float(int(float(int(float('18.2'))))))))
 #      18.0  18  18.0  18  18.0  18  18.2
 #     <----------------------------------  '18.2'
+
+
+# Check this page out for more on strings
+# https://docs.python.org/3.9/tutorial/introduction.html#strings
