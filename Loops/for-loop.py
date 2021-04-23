@@ -42,11 +42,16 @@ for i in range(1, 11): # OUTER LOOP -> loops 10 times
                 # y loops 2 times
 
 print(Fore.MAGENTA)
+counterList = []
 print('Counter i => ', counter_i)
+counterList.append(counter_i)
 print('Counter j => ', counter_j)
+counterList.append(counter_j)
 print('Counter x => ', counter_x)
+counterList.append(counter_x)
 print('Counter y => ', counter_y)
-print(Fore.CYAN, 'Total loops: {}'.format(counter_i + counter_j + counter_x + counter_y))
+counterList.append(counter_y)
+print(Fore.CYAN, 'Total loops: {}'.format(sum(counterList)))
 
 counter_z = 0
 counter_w = 0
@@ -54,10 +59,10 @@ counter_w = 0
 print()
 print('---------------------------')
 for z in range(1, 20):
-    print(Fore.RED, f'z .............. {z}')
+    print(Fore.RED, f'z ........... {z}')
     counter_z +=1 
     for w in range(1, 10):
-        print(Fore.BLUE, f'w ........, {w}')
+        print(Fore.BLUE, f'w ......... {w}')
         counter_w +=1 
 
 print()
