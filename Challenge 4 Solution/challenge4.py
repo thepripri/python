@@ -4,9 +4,8 @@
 # -	Calculates the wall area for a room.
 # - Passes the calculated wall area to another method that calculates and returns the number of gallons of paint needed.
 # - Displays the number of gallons needed.
-# - Computes the price based on a paint price of $32 per gallon, assuming that the painter can buy any fraction of a gallon of paint 
-# at the same price as a whole gallon.
-# - Returns the price​
+# - Computes the price based on a paint price of $32 per gallon, assuming that the painter can buy any fraction of a gallon of paint at the same price as a whole gallon.
+# - Returns the price
 # The final price is displayed. For example, the cost to paint a 15-by-20-foot room with 10-foot ceilings is $64. 
 # Save the application as paintcalculator.py
 
