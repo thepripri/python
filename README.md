@@ -18,9 +18,9 @@
     <li><a href="https://github.com/dunieskiotano/python/blob/master/Loops/while-loop.py">While Loop</a></li>   
     <li><a href="https://github.com/dunieskiotano/python/blob/master/Loops/for-loop.py">For Loop</a></li> 
   </ul>
-  <li><a href="#" target="_blank">Challenge 1 Solution</a></li>
-  <li><a href="#" target="_blank">Challenge 2 Solution</a></li>
-  <li><a href="#" target="_blank">Challenge 3 Solution</a></li>
+  <li><a href="https://github.com/dunieskiotano/python/blob/master/Challenge%204%20Solution/challenge4.py" target="_blank">Challenge 4 Solution</a></li>
+  <li><a href="#" target="_blank"></a></li>
+  <li><a href="#" target="_blank"></a></li>
 </ol>
 
 
