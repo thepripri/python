@@ -37,20 +37,3 @@ print(f'approximately {ceil(gallons)} gallons')
 # # Check this page out for more on operators
 # https://docs.python.org/3.9/library/operator.html
 
-system('clear')
-print()
-print()
-def calculate(a1):
-    print(a1)
-
-def calculate(a1, a2 = None):
-    print(a1, a2)
-
-def calculate(a1, a2 = None, a3 = None):
-    print(a1, a2, a3)
-
-def calculate(a1, a2 = None, a3 = None, a4 = None):
-    print(a1, a2, a3, a4)
-
-
-calculate(1, 2, 3, 4)
