@@ -8,7 +8,7 @@
   <li><a href="#" target="_blank">Collections</a></li>
     <ul>
     <li><a href="#">Arrays</a></li>
-    <li><a href="#">Dictionaries</a></li>
+    <li><a href="https://github.com/dunieskiotano/python/blob/master/Dictionaries/dictionaries.py">Dictionaries</a></li>
     <li><a href="#">Lists</a></li>   
     <li><a href="#">Tuples</a></li>  
     <li><a href="#">Sets</a></li>  
