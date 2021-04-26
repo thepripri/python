@@ -14,7 +14,7 @@
     <li><a href="#">Sets</a></li>  
     </ul>
    <li><a href="https://github.com/dunieskiotano/python/tree/master/Modules-and-Libraries">Modules and Libraries</a></li>
-  <li><a href="  https://github.com/dunieskiotano/python/tree/master/Conditionals">Conditionals</a></li>
+  <li><a href="https://github.com/dunieskiotano/python/tree/master/Conditionals">Conditionals</a></li>
   <li><a href="https://github.com/dunieskiotano/python/tree/master/Loops">Loops</a></li> 
   <ul>
     <li><a href="https://github.com/dunieskiotano/python/blob/master/Loops/while-loop.py">While Loop</a></li>   
