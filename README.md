@@ -5,14 +5,7 @@
   <li><a href="https://github.com/dunieskiotano/python/blob/master/Operators/operators.py" target="_blank">Operators</a></li>
   <li><a href="https://github.com/dunieskiotano/python/blob/master/Strings/strings.py" target="_blank">Strings</a></li>
   <li><a href="https://github.com/dunieskiotano/python/blob/master/Exceptions/exceptions.py" target="_blank">Exceptions</a></li>
-  <li><a href="#" target="_blank">Collections</a></li>
-    <ul>
-    <li><a href="#">Arrays</a></li>
-    <li><a href="https://github.com/dunieskiotano/python/blob/master/Dictionaries/dictionaries.py">Dictionaries</a></li>
-    <li><a href="#">Lists</a></li>   
-    <li><a href="#">Tuples</a></li>  
-    <li><a href="#">Sets</a></li>  
-    </ul>
+  <li><a href="https://github.com/dunieskiotano/python/tree/master/Lists" target="_blank">Lists</a></li>
    <li><a href="https://github.com/dunieskiotano/python/tree/master/Modules-and-Libraries">Modules and Libraries</a></li>
   <li><a href="https://github.com/dunieskiotano/python/tree/master/Conditionals">Conditionals</a></li>
   <li><a href="https://github.com/dunieskiotano/python/tree/master/Loops">Loops</a></li> 
