@@ -95,3 +95,8 @@ print(type(newString))
 # {} => dictionaries and sets, 
 # [] => lists
 # (...[]) => arrays
+
+
+string = 'Dunieski'
+print(string[0:3])
+print(string[::2])
