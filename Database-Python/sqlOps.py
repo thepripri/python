@@ -31,3 +31,18 @@ def insertUserInfo(fname, lname, age, phone):
         conn.close()
     except (Exception, mysql.connector.Error) as error:
         print('Error while fetching data from mySQL', error)   
+
+def updateUser():
+    print()
+    
+def deleteUser(id):
+    conn = c.returnConnection()
+    try:
+        cursor = conn.cursor()
+        cursor.execute(f'DELETE FROM users WHERE user_id = {id}')
+        conn.commit()
+        readUserInfo()
+        cursor.close()
+        conn.close()
+    except (Exception, mysql.connector.Error) as error:
+        print('Error while fetching data from mySQL', error)   

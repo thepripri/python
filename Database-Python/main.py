@@ -1,17 +1,26 @@
-import os 
-import functions as func 
+import os  
 from os import system 
+import operations as ops
 
 
 system('clear')
 
-#func.readUserInfo()
+operationsList = ['Read', 'Insert', 'Update', 'Delete']
 
-fname = input('What is your first name? >> ')
-lname = input('What is your last name? >> ')
-age = int(input('What is your age? >> '))
-phone = input('What is your phone? >> ')
+counter = 1
 
-func.insertUserInfo(fname, lname, age, phone)
+print('These are the opeations that you can perform in our database: ')
+for operation in operationsList:
+    print(f'{counter}. {operation}')
+    counter += 1
+choice = int(input('Select one above >> '))
 
+if (choice == 1):
+    ops.readUserOperation()
+elif (choice == 2):
+    ops.insertOperation()
+elif (choice == 4):
+    ops.deleteOperation()
+else:
+    print('invalid selection')
 
